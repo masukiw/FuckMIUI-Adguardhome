@@ -30,16 +30,16 @@
 ! 禁用后无法开启部分权限
 !||srv.sec.miui.com^
 
-!权限云控 好像只针对部分机型？
+! 权限云控 好像只针对部分机型？
 ||auth.be.sec.miui.com^
 
-!反诈
+! 反诈
 ||flash.sec.miui.com^
 
-!快应用
+! 快应用
 ||api.hybrid.xiaomi.com^
 
-!浏览器 热点下滑等
+! 浏览器 热点下滑等
 ||o2o.api.xiaomi.com^
 ||api.browser.miui.com^
 ||ssl-cdn.static.browser.mi-img.com^
@@ -133,9 +133,9 @@
 ||a0.app.xiaomi.com^
 
 ! 屏蔽后无法矫正流量，但是也用来下载白名单
-!||api.sec.miui.com^
-||adv.sec.miui.com^
-||xlmc.sec.miui.com^
+! ||api.sec.miui.com^
+! ||adv.sec.miui.com^
+! ||xlmc.sec.miui.com^
 
 ! 禁用后将无法云扫描病毒
 ||etl-xlmc-ssl.sandai.net^
